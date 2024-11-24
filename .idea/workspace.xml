@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee43912-7807-4ba4-8a4d-29192433555b" name="Changes" comment="version 0.1">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3DPortfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/.idea/public.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/public.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index-ReZUeUgz.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index-jgvm9pax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomeInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomeInfo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Contact.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Projects.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Projects.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="7ee43912-7807-4ba4-8a4d-29192433555b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,8 +69,16 @@
       <workItem from="1730017126469" duration="733000" />
       <workItem from="1731671485891" duration="2156000" />
       <workItem from="1731927989225" duration="119000" />
-      <workItem from="1732485046633" duration="601000" />
+      <workItem from="1732485046633" duration="673000" />
     </task>
+    <task id="LOCAL-00001" summary="version 0.1">
+      <created>1732485668540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732485668540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
