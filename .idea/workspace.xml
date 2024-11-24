@@ -4,29 +4,81 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee43912-7807-4ba4-8a4d-29192433555b" name="Changes" comment="" />
+    <list default="true" id="7ee43912-7807-4ba4-8a4d-29192433555b" name="Changes" comment="version 0.1">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3DPortfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/.idea/public.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.idea/public.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-ReZUeUgz.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-jgvm9pax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HomeInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomeInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Contact.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Projects.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Projects.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JiraServerManager">
+    <selected>-1</selected>
+    <servers />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2nNPx1ByNvmy6A8oY5NFnP0osen" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/song-wiki&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\3DPortfolio\src\assets\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,11 +87,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728810805584</updated>
-      <workItem from="1728810807864" duration="904000" />
+      <workItem from="1728810807864" duration="3054000" />
+      <workItem from="1728814287948" duration="372000" />
+      <workItem from="1728814677006" duration="177000" />
+      <workItem from="1728814868267" duration="97000" />
+      <workItem from="1728815010759" duration="456000" />
+      <workItem from="1728820067960" duration="149000" />
+      <workItem from="1728820795371" duration="37000" />
+      <workItem from="1728822091086" duration="5546000" />
+      <workItem from="1728886933449" duration="738000" />
+      <workItem from="1729439746913" duration="4770000" />
+      <workItem from="1729586447259" duration="4292000" />
+      <workItem from="1730017126469" duration="733000" />
+      <workItem from="1731671485891" duration="2156000" />
+      <workItem from="1731927989225" duration="119000" />
+      <workItem from="1732485046633" duration="601000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 0.1" />
   </component>
 </project>

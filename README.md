@@ -1,4 +1,4 @@
-# Hsiang-Yuan Chen Portfolio
+# Song Yang Portfolio
 3D Portfolio using React
 
 ## Description
@@ -22,9 +22,6 @@ Deployed on GitHub using GitHub workflows
 
 ## Authors
 
-Hsiang-Yuan(Shane) Chen
+Song Yang @University of Limerick
 
-## Version History
 
-* 0.1
-    * Initial Release

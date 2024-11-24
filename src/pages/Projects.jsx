@@ -11,7 +11,7 @@
         </h1>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-            These are the projects that I currently finished! Most of them were open-source!
+            These are the projects that I currently finished!
           </p>
         </div>
         

@@ -7,6 +7,7 @@ import logo from './logo.svg'
 import dxc from './dxc.png'
 import ucan from './UCANlogo.png'
 import atlasRTX from './AtlasRTX.png'
+import rongzhi from  './rongzhi.jpg'
 
 export {
     hero,
@@ -18,4 +19,5 @@ export {
     dxc,
     ucan,
     atlasRTX,
+    rongzhi
 }

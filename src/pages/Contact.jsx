@@ -30,9 +30,9 @@ const Contact = () => {
       import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
       {
         from_name:form.name,
-        to_name:"Shane",
+        to_name:"Song",
         from_email:form.email,
-        to_email:'shane.chen0219@gmail.com',
+        to_email:'ysong0930@gmail.com',
         message:form.message
       },
       import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
@@ -69,7 +69,7 @@ const Contact = () => {
             Name: 
             <input type='text'
             name='name'
-            placeholder='Shane'
+            placeholder='Song'
             required
             value={form.name}
             onChange={handleChange}
@@ -81,7 +81,7 @@ const Contact = () => {
             Email:  
             <input type='email'
             name='email'
-            placeholder='shane@gmail.com'
+            placeholder='ysong0930@gmail.com'
             required
             value={form.email}
             onChange={handleChange}
@@ -103,6 +103,27 @@ const Contact = () => {
             onBlur={handleBlur}
             />
           </label>
+
+          {/* Add LinkedIn and GitHub links */}
+          <div className='flex flex-col gap-3 mt-5'>
+            <a
+                href='https://www.linkedin.com/in/song-yang-37aa29291/'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='text-blue-600 underline hover:text-blue-800'
+            >
+              LinkedIn Profile
+            </a>
+            <a
+                href='https://github.com/songyang8964'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='text-blue-600 underline hover:text-blue-800'
+            >
+              GitHub Profile
+            </a>
+          </div>
+
           <button
           type='submit'
           className='btn'

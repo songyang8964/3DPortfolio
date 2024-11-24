@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla, dxc,ucan,atlasRTX} from "../assets/images";
+import {meta, shopify, starbucks, tesla, dxc, ucan, atlasRTX, rongzhi} from "../assets/images";
 import {
     car,
     contact,
@@ -110,43 +110,43 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Product Engineering Intern",
-        company_name: "AtlasRTX",
-        icon: atlasRTX,
+        title: "Software Engineer Intern",
+        company_name: "Rongzhi Information Technology Co., Ltd",
+        icon: rongzhi,
         iconBg: "#FFD1DC",
-        date: "May 2024 - Aug 2024",
+        date: "Jul 2024 - May 2023",
         points: [
-            "Designed and integrated health check endpoints for Azure Functions using C#, performing minute-by-minute checks with five attempts before sending alerts, reducing alert noise by 30%",
-            "Developed Azure AI Search using text-embedding-ada-002 and GPT-3.5 Turbo from OpenAI, leveraging RAG for vectorized and semantic search, improving accuracy from 13.8% to 96.5%",
-            "Engineered CI pipelines with YAML, PowerShell, and Bicep scripts to automate the integration of 6 Azure Functions, achieving an 85% speed improvement",
+            "Participated in the back-end development using Java EE, Spring Boot, and Hibernate, closely collaborating with the front-end team",
+            "Developed and implemented CI/CD pipeline using GitHub Actions, automating build and deployment processes for a static web app on Alibaba Cloud, reducing manual effort by 80%",
+            "Mentored two interns in back-end technologies and contributed to the successful launch of two projects with positive user feedback, earning the Outstanding Contributor Award",
             
         ],
     },
-    {
-        title: "Service Information Developer",
-        company_name: "DXC Technology",
-        icon: dxc,
-        iconBg: "#FBF9F1",
-        date: "Sep 2022 - July 2023",
-        points: [
-            "Provided on-site consultancy for SAP MM(Materials Management), CO(Controlling), and ABAP modules, optimizing workflows and improving data accuracy by 25%",
-            "Created an automated inventory system using ABAP, SQL, and Python. Reduced inventory checking time from 3 days to 3 hours",
-            "Led SAP S/4 HANA projects for WMS and ERP integration, automated purchase orders, and enabled real-time AWS data exchange for freight tracking. Boosted manufacturing efficiency by 35% and reduced inventory costs by 20%",
-            
-        ],
-    },
-    {
-        title: "SAP ABAP Developer",
-        company_name: "Ucan System",
-        icon: ucan,
-        iconBg: "#AAD7D9",
-        date: "Nov 2021 - Aug 2022",
-        points: [
-            "Engineered 23 custom ALV reports, 14 OOALV reports, and 3 SmartForms in SAP S/4 HANA, improving report generation efficiency by 40% and enhancing data visibility for end-users",
-            "Spearheaded the ERP and CRM data exchange project. Delivered 11 RFCs(Remote Function Call), attaining a 90% reduction in data processing time",
-            "Reduced manual testing time by 60% and improved test coverage and reliability across various SAP modules",
-        ],
-    },
+    // {
+    //     title: "Service Information Developer",
+    //     company_name: "DXC Technology",
+    //     icon: dxc,
+    //     iconBg: "#FBF9F1",
+    //     date: "Sep 2022 - July 2023",
+    //     points: [
+    //         "Provided on-site consultancy for SAP MM(Materials Management), CO(Controlling), and ABAP modules, optimizing workflows and improving data accuracy by 25%",
+    //         "Created an automated inventory system using ABAP, SQL, and Python. Reduced inventory checking time from 3 days to 3 hours",
+    //         "Led SAP S/4 HANA projects for WMS and ERP integration, automated purchase orders, and enabled real-time AWS data exchange for freight tracking. Boosted manufacturing efficiency by 35% and reduced inventory costs by 20%",
+    //
+    //     ],
+    // },
+    // {
+    //     title: "SAP ABAP Developer",
+    //     company_name: "Ucan System",
+    //     icon: ucan,
+    //     iconBg: "#AAD7D9",
+    //     date: "Nov 2021 - Aug 2022",
+    //     points: [
+    //         "Engineered 23 custom ALV reports, 14 OOALV reports, and 3 SmartForms in SAP S/4 HANA, improving report generation efficiency by 40% and enhancing data visibility for end-users",
+    //         "Spearheaded the ERP and CRM data exchange project. Delivered 11 RFCs(Remote Function Call), attaining a 90% reduction in data processing time",
+    //         "Reduced manual testing time by 60% and improved test coverage and reliability across various SAP modules",
+    //     ],
+    // },
 ];
 
 export const socialLinks = [
@@ -158,12 +158,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/ShaneChen0219',
+        link: 'https://github.com/songyang8964',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/hsiangyuan-chen',
+        link: 'https://www.linkedin.com/in/song-yang-37aa29291/',
     }
 ];
 
@@ -171,43 +171,43 @@ export const projects = [
     { 
         iconUrl:sass,
         theme: 'btn-back-pink',
-        name:'School Faq',
-        description:"Created a web application with Next.js and Flask-based Python server to provide an interactive interface for users to engage with the University chatbot",
-        link:'',
+        name:'Hotel Review Analysis Using Spark',
+        description:"A project that leverages Spark and machine learning models to analyze hotel reviews, providing sentiment classification and performance comparison to help hotels improve services based on customer feedback.",
+        link:'https://github.com/songyang8964/HotelReviewAnalysis',
     },
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Squeezing Koopa & Goomba Game',
-        description: 'A 2D game using C++ with the SFML framework, including dynamic items generation and responsiveness in-game collisions. ',
-        link: 'https://github.com/ShaneChen0219/Mario-Jump-Game',
+        name: 'Crowd-Sourced Review App',
+        description: 'A crowd-sourced review app featuring email login, store reviews, coupon flash sales, daily check-ins, and blog updates from followed influencers, allowing users to browse recommended content, search local businesses, view details and reviews, post blogs, and purchase limited-time deals.',
+        link: 'https://github.com/songyang8964/GrabReview',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Temperature Record API',
-        description: "A RESTful API that allows tempeture records application to CRUD the DB. It's base on Python and Flask, integrated with PostgreSQL using ElephantSQL. ",
-        link: 'https://github.com/ShaneChen0219/RESTapiForTemperature',
+        name: 'Handwritten RPC Framework',
+        description: "A high-performance RPC framework based on Java, Etcd, and Vert.x, implementing a network server, serializer, registry center.",
+        link: 'https://github.com/songyang8964/song-rpc',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
         name: '3D Animated Portfolio',
         description: 'A responsive 3D portfolio base on React.js, allowing users to send email to specific email address.',
-        link: 'https://github.com/ShaneChen0219/3DPortfolio',
+        link: 'https://github.com/songyang8964/3DPortfolio',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Food Ordering App',
-        description: 'Built an online ordering app, which covers user authentication, checkout payment processing, and order acceptance facilitated through automated email notifications.',
-        link: '',
+        name: 'Full Stack Ebook Storage System',
+        description: 'A full-stack Wiki system for storage of eBooks and documents, built with Spring Boot for the backend and Vue 3 with Ant Design Vue for the frontend.',
+        link: 'https://github.com/songyang8964/Wiki',
     },
     {
         iconUrl: summiz,
         theme: 'btn-back-red',
-        name: 'Simplified TLS Protocol',
-        description: 'Build a simplified TLS (Transport Layer Security) protocol involves the establishment of a secure communication channel between a server and a client. ',
-        link: 'https://github.com/ShaneChen0219/TLS-communitation.git',
+        name: 'Reggie Takeout',
+        description: 'A custom product designed for the food service industry, consisting of a system management backend for internal staff to manage restaurant categories, dishes, meals, orders, and employees, along with a mobile application for consumers to browse dishes, add items to their cart, and place orders online. ',
+        link: 'https://github.com/songyang8964/takeout',
     },
 ];
